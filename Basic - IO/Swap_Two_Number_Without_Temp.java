@@ -18,8 +18,8 @@ public static void main(String[] args)
 	  System.out.println("\n Before Swapping => " + "\t 1st Number = " + No1 + "\t 2nd Number = " + No2);
     
 
-      No1 = No1 + No2;
-      No2 = No1 - No2;
+          No1 = No1 + No2;
+          No2 = No1 - No2;
 	  No1 = No1 - No2;
 	
 	  System.out.println("\n After Swapping => " + "\t 1st Number = " + No1 + "\t 2nd Number = " + No2);

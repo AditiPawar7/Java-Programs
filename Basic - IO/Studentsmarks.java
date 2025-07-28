@@ -11,7 +11,7 @@ public class Studentsmarks
 		Scanner S = new Scanner(System.in);
 
 
-        System.out.print("\n Enter first of physics marks  : ");
+                System.out.print("\n Enter first of physics marks  : ");
 		P = S.nextInt();
 		
 		System.out.print("\n Enter Second of chemistry marks : ");
@@ -20,7 +20,7 @@ public class Studentsmarks
 		System.out.print("\n Enter Third of Maths marks : ");
 		M = S.nextInt();
 		
-	    Total = P + C + M;
+	        Total = P + C + M;
 		percentage = (float) Total / 3;
 
 		

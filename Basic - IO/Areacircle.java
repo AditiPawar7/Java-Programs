@@ -4,7 +4,7 @@ import java.util.*;
 public class Areacircle 
 {
 	
-	public static void main(String[] args) {
+public static void main(String[] args) {
 		
 		Scanner s = new Scanner(System.in);
 		float radius,area;

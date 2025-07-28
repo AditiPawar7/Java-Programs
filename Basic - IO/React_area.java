@@ -12,7 +12,7 @@ public static void main(String[] args)
 	Ht = S.nextFloat();
 	
 	System.out.print("\n Enter Height of Reactangle :");
-    Wd = S.nextFloat();
+        Wd = S.nextFloat();
 	
 	
 	Area = Ht * Wd;
